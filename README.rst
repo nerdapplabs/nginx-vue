@@ -41,3 +41,9 @@ In dev source package.json
 ``clean-build: rm -rf  nginx-vue/static; rm -rf  nginx-vue/index.html;``
 
 ``cp -r <dev-source>/dist/* nginx-vue/``
+
+Size
+----
+
+static     385 KB
+index.html   4   KB
