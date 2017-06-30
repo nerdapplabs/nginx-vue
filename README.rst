@@ -28,3 +28,12 @@ Troubleshooting
 ---------------
 
 https://blog.serverdensity.com/troubleshoot-nginx/
+
+
+TODO
+----
+
+`npm target script`
+
+`clean-build: rm -rf static rm -rf index.html`
+`cp -r dev-source/dist/* nginx-vue/`
