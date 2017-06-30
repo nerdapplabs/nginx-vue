@@ -38,6 +38,6 @@ npm target script
 In dev source package.json
 
 
-``clean-build: rm -rf static rm -rf index.html``
+``clean-build: rm -rf  nginx-vue/static; rm -rf  nginx-vue/index.html;``
 
 ``cp -r <dev-source>/dist/* nginx-vue/``
